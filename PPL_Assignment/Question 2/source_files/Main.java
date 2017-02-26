@@ -349,24 +349,24 @@ public class Main {
 			}
 			bubblesort1(commit,counter);
 			int k = r.nextInt(counter);
-			printkhappiest(commit, k);
+			//printkhappiest(commit, k);
 			System.out.println();
 			for(i=0;i<counter;i++){
 				commit[i].couple_compaitibility = Math.abs(commit[i].b.boy_atrb-commit[i].g.girl_atrg)+Math.abs(commit[i].b.boy_intelb-commit[i].g.girl_intelg)+Math.abs(commit[i].b.boy_ri-commit[i].g.girl_mbudget);
 			}
 			bubblesort2(commit,k);
-			printkcompait(commit,k);
-			System.out.println();
+			//printkcompait(commit,k);
+			//System.out.println();
 			for(i=0;i<counter;i++){
 				int size = commit[i].giftlist.size();
-				System.out.println(commit[i].b.boy_nameb+" gave "+size+" Gifts to his girlfriend "+commit[i].g.girl_nameg+":");
-				System.out.println("Gift description are -");
+				//System.out.println(commit[i].b.boy_nameb+" gave "+size+" Gifts to his girlfriend "+commit[i].g.girl_nameg+":");
+				//System.out.println("Gift description are -");
 				for(j=0;j<size;j++){
 					fo.write("Gift Distribution"+"\t"+commit[i].b.boy_nameb+" gave gift of type is "+commit[i].giftlist.get(j).gift_type+" "+j+" to his girl "+commit[i].g.girl_nameg+"    \t\t"+LocalDate.now()+" "+LocalTime.now());
 					fo.newLine();
-					System.out.println(commit[i].giftlist.get(j).gift_name +" "+ commit[i].giftlist.get(j).gift_price + " "+commit[i].giftlist.get(j).gift_value + " " + commit[i].giftlist.get(j).gift_type);
+					//System.out.println(commit[i].giftlist.get(j).gift_name +" "+ commit[i].giftlist.get(j).gift_price + " "+commit[i].giftlist.get(j).gift_value + " " + commit[i].giftlist.get(j).gift_type);
 				}
-				System.out.println();
+				//System.out.println();
 			}
 		} else {
 			System.out.println("No couples are formed");
