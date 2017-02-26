@@ -6,7 +6,7 @@ Principal of programming language assignment  by **Prof Rahul Kala**  submited b
 ## Operating System
 Tested in linux mint 
 ## Installation
-Open the Directory where the file are wnloaded .In the terminal execute **jar files** by using command 
+Open the Directory where the file are not present initially after executing commands file will be generated.In the terminal execute **jar files** by using command 
 1. change to directoy where file are extracted ie /Question 1
 2. execute <i>java -jar Ques1</i> to get output in terminal
 3. execute <i>logoutput.txt</i>
