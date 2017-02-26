@@ -6,13 +6,13 @@ Principal of programming language assignment  by **Prof Rahul Kala**  submited b
 ## Operating System
 Tested in linux mint 
 ## Installation
-Open the Directory where the file are downloaded .In the terminal execute **jar files** by using command 
-1.change to directoy where file are extracted ie /Question 1
- 2. execute **java -jar Ques1** to get output in terminal
- 3. execute **cat logoutput.txt**
- 4 .change to directory /Question 2
- 5.execute **java -jar Ques2** to get output in terminal
- 6. execute **cat logoutput.txt**
+Open the Directory where the file are wnloaded .In the terminal execute **jar files** by using command 
+1. change to directoy where file are extracted ie /Question 1
+2. execute <i>java -jar Ques1</i> to get output in terminal
+3. execute <i>logoutput.txt</i>
+4. change to directory /Question 2
+5. execute <i>java -jar Ques2</i> to get output in terminal
+6. execute <i>logoutput.txt</i>
 
 ## Output
 Output is stored in **logoutput.txt** file in the same directory
