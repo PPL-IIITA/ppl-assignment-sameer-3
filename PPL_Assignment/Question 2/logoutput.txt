@@ -1,0 +1,167 @@
+					Couple Information
+
+   Event Type		 	Event Description 		 		     TimeStamp
+Couple Formation	Couple - 0  Sanjeev ->  Amrita got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 1  Rahul ->  Akanksha got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 2  Abhishek ->  Priyanka got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 3  Harsh ->  Sonali got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 4  Ashwin ->  Ayushi got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 5  Amit ->  Neha got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 6  Shobit ->  Nishtha got commited	      	2017-02-26  12:41:12.001
+Couple Formation	Couple - 7  Raghav ->  Richa got commited	      	2017-02-26  12:41:12.001
+
+					Gift Information
+
+   Event Type		 		Event Description 		   				  TimeStamp
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 0 to his girl Amrita    		2017-02-26 12:41:12.023
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 1 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 2 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 3 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 4 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 5 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 6 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 7 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 8 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 9 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 10 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 11 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 12 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 13 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 14 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 15 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 16 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 17 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 18 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 19 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 20 to his girl Amrita    		2017-02-26 12:41:12.024
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 21 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 22 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 23 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 24 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 25 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 26 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 27 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 28 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 29 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 30 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Essential Gifts 31 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Utility Gifts 32 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Sanjeev gave gift of type is Luxury Gifts 33 to his girl Amrita    		2017-02-26 12:41:12.025
+Gift Distribution	Rahul gave gift of type is Utility Gifts 0 to his girl Akanksha    		2017-02-26 12:41:12.025
+Gift Distribution	Rahul gave gift of type is Utility Gifts 1 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Utility Gifts 2 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Essential Gifts 3 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Utility Gifts 4 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Luxury Gifts 5 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Luxury Gifts 6 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Utility Gifts 7 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Essential Gifts 8 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Essential Gifts 9 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Utility Gifts 10 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Essential Gifts 11 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Rahul gave gift of type is Utility Gifts 12 to his girl Akanksha    		2017-02-26 12:41:12.026
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 0 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 1 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 2 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 3 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 4 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 5 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 6 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 7 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 8 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 9 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 10 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 11 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 12 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 13 to his girl Priyanka    		2017-02-26 12:41:12.027
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 14 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 15 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 16 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 17 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 18 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 19 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 20 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Utility Gifts 21 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 22 to his girl Priyanka    		2017-02-26 12:41:12.028
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 23 to his girl Priyanka    		2017-02-26 12:41:12.029
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 24 to his girl Priyanka    		2017-02-26 12:41:12.029
+Gift Distribution	Abhishek gave gift of type is Essential Gifts 25 to his girl Priyanka    		2017-02-26 12:41:12.029
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 26 to his girl Priyanka    		2017-02-26 12:41:12.029
+Gift Distribution	Abhishek gave gift of type is Luxury Gifts 27 to his girl Priyanka    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Utility Gifts 0 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Utility Gifts 1 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Utility Gifts 2 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Essential Gifts 3 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Utility Gifts 4 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Luxury Gifts 5 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Luxury Gifts 6 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Utility Gifts 7 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Essential Gifts 8 to his girl Sonali    		2017-02-26 12:41:12.029
+Gift Distribution	Harsh gave gift of type is Essential Gifts 9 to his girl Sonali    		2017-02-26 12:41:12.030
+Gift Distribution	Harsh gave gift of type is Utility Gifts 10 to his girl Sonali    		2017-02-26 12:41:12.030
+Gift Distribution	Harsh gave gift of type is Essential Gifts 11 to his girl Sonali    		2017-02-26 12:41:12.030
+Gift Distribution	Harsh gave gift of type is Utility Gifts 12 to his girl Sonali    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 0 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 1 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 2 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 3 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 4 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 5 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 6 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 7 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 8 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 9 to his girl Ayushi    		2017-02-26 12:41:12.030
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 10 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 11 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 12 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 13 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 14 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 15 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 16 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 17 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 18 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 19 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 20 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Utility Gifts 21 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 22 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 23 to his girl Ayushi    		2017-02-26 12:41:12.031
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 24 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 25 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 26 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 27 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 28 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 29 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Luxury Gifts 30 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Ashwin gave gift of type is Essential Gifts 31 to his girl Ayushi    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 0 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 1 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 2 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Essential Gifts 3 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 4 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Luxury Gifts 5 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Luxury Gifts 6 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 7 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Essential Gifts 8 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Essential Gifts 9 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Utility Gifts 10 to his girl Neha    		2017-02-26 12:41:12.032
+Gift Distribution	Amit gave gift of type is Essential Gifts 11 to his girl Neha    		2017-02-26 12:41:12.033
+Gift Distribution	Amit gave gift of type is Utility Gifts 12 to his girl Neha    		2017-02-26 12:41:12.033
+Gift Distribution	Amit gave gift of type is Essential Gifts 13 to his girl Neha    		2017-02-26 12:41:12.033
+Gift Distribution	Amit gave gift of type is Essential Gifts 14 to his girl Neha    		2017-02-26 12:41:12.033
+Gift Distribution	Amit gave gift of type is Luxury Gifts 15 to his girl Neha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Utility Gifts 0 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Utility Gifts 1 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Utility Gifts 2 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Essential Gifts 3 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Utility Gifts 4 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Luxury Gifts 5 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Luxury Gifts 6 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Utility Gifts 7 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Essential Gifts 8 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Essential Gifts 9 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Shobit gave gift of type is Luxury Gifts 10 to his girl Nishtha    		2017-02-26 12:41:12.033
+Gift Distribution	Raghav gave gift of type is Utility Gifts 0 to his girl Richa    		2017-02-26 12:41:12.034
+Gift Distribution	Raghav gave gift of type is Utility Gifts 1 to his girl Richa    		2017-02-26 12:41:12.034
+Gift Distribution	Raghav gave gift of type is Utility Gifts 2 to his girl Richa    		2017-02-26 12:41:12.034
+Gift Distribution	Raghav gave gift of type is Essential Gifts 3 to his girl Richa    		2017-02-26 12:41:12.034
+Gift Distribution	Raghav gave gift of type is Luxury Gifts 4 to his girl Richa    		2017-02-26 12:41:12.034

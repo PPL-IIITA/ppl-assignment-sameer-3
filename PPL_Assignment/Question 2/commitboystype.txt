@@ -1,0 +1,8 @@
+Sanjeev 8 105479 1 Miser
+Rahul 89 83982 10 Miser
+Abhishek 8 82191 8 Miser
+Harsh 62 72875 6 Miser
+Ashwin 10 83456 7 Generous
+Amit 82 101067 8 Geeks
+Shobit 16 30535 3 Geeks
+Raghav 23 62061 10 Geeks
