@@ -81,7 +81,7 @@ public class Main {
 					bo.write("Couple Formation"+"\t"+"Couple - "+counter+"  "+b1+" -> "+" "+g1+" got commited"+"   \t"+LocalDate.now()+"  "+LocalTime.now());
 					bo.newLine();
 					COMMITED commit = new COMMITED(counter,boys[i],girl[j]);
-					commit.Dis();
+					//commit.Dis();
 					break;
 				}
 			}
