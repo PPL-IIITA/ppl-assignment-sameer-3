@@ -1,8 +1,7 @@
-Amrita 59 90401 2 Choosy
-Akanksha 99 12904 1 Normal
-Priyanka 16 62086 3 Choosy
-Sonali 72 13247 1 Choosy
-Ayushi 62 65989 3 Desperate
-Neha 100 17858 2 Desperate
-Nishtha 19 6965 3 Choosy
-Richa 36 2098 10 Desperate
+Amrita 97 94291 7 Desperate
+rekha 57 78555 5 Normal
+Sonali 88 53926 5 Choosy
+Ritika 36 34926 1 Normal
+Ayushi 53 26758 7 Choosy
+Neha 57 52383 8 Desperate
+Nishtha 81 38668 10 Choosy
