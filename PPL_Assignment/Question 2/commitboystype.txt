@@ -1,7 +1,0 @@
-Amit 18 103415 3 Miser
-Shobit 37 81913 1 Geeks
-Rahul 61 88914 3 Miser
-Rajat 22 60635 1 Geeks
-Harsh 41 30262 9 Generous
-Amit 56 94817 6 Generous
-Sumit 57 85847 6 Geeks
