@@ -1,3 +1,5 @@
 To run code use command on terminal
 $ java -jar Ques1.jar
 For documentation open Documentation Folder
+To run code use command 
+$ java -jar "Ques1.jar" on windows plateform
