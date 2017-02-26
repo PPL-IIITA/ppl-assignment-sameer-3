@@ -1,5 +1,5 @@
 ## ppl-assignment-sameer-3
-ppl-assignment-sameer-3 created by GitHub Classroom
+ppl-assignment-  created by GitHub Classroom
 PPL Assignment submitted by Ujala Singh (ISM2015005).
 
 Principal of programming language assignment  by **Prof Rahul Kala**  submited by Ujala Singh ISM2015005
