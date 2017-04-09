@@ -1,0 +1,15 @@
+Amrita,43,72448,3,desperate
+rekha,21,36248,6,choosy
+Pooja,17,73515,10,choosy
+Seema,84,64524,9,desperate
+Akanksha,94,63556,2,choosy
+Priyanka,71,53380,7,choosy
+Sonali,55,87399,3,normal
+Ritika,61,51394,9,desperate
+Ayushi,85,78060,8,normal
+Neha,51,63921,7,normal
+Nishtha,26,85483,6,choosy
+Richa,87,94392,8,normal
+Sulekha,67,54421,9,normal
+Asmita,29,68896,8,choosy
+Rupali,46,67130,8,choosy
