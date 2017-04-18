@@ -1,0 +1,14 @@
+run the commands:
+cd Question11
+cd Source\ Files/
+javac Main.java
+java Main
+cat logoutput.txt
+
+on the terminal
+
+(Ubuntu Gnome 16.04 LTS)
+64-bit
+Java SE 8
+
+Documentation done using javadocs.
